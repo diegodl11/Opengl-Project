@@ -15,7 +15,7 @@ OpenGL
 GLEW 
 GLUT 
 En Ubuntu/Debian:
-bash
+
 
 sudo apt-get update
 sudo apt-get install libglew-dev libglut3-dev
