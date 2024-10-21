@@ -3,7 +3,7 @@ Descripción
 Este proyecto implementa código en c++. Utiliza OpenGL para representar modelos jerárquicos, texturas etc. brindando una experiencia gráfica interactiva.
 
 
-Capturas de pantalla
+
 ![image](https://github.com/user-attachments/assets/dcb2cd3e-1988-4aef-8e0b-850d4f01108a)
 
 
