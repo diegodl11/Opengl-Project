@@ -17,7 +17,7 @@ GLUT
 En Ubuntu/Debian:
 
 
-sudo apt-get update
+sudo apt-get update y
 sudo apt-get install libglew-dev libglut3-dev
 
 Si deseas contribuir a este proyecto, siéntete libre de hacer un fork del repositorio y enviar un pull request con tus mejoras.
